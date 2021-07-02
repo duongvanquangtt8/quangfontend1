@@ -1,0 +1,293 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header.top-header{
+    background:url(../images/bgbanana.jpg) ;
+    background-size: cover;
+background-position: center;
+height: 100%;
+margin-bottom: 100px;
+padding-bottom: 150px;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color:  black;
+    padding-right: 30px;
+   
+    font-weight: bold;
+}
+
+.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show>.nav-link
+{
+    color: black;
+
+}
+
+.logo{
+    margin-right: 120px;
+}
+.nav-icon{
+    list-style: none;
+}
+.nav-icon li a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+}
+.nav-icon li a:hover{
+    color: #54ac00;
+}
+.nav-icon li{
+    display: inline-block;
+    margin-right: 20px;
+}
+.banner{
+    padding-top: 180px;
+}
+.heading-main-box h1{
+    font-size: 3rem;
+}
+.a{
+    padding-bottom: 40px;
+    padding-top: 20px;
+    font-size: 1.3rem;
+}
+.b{
+    font-size: 1.3rem;
+    font-style: italic;
+}
+.btn-shop{
+    text-decoration: none;
+    color: white;
+    background-color: #54ac00;
+    padding: 15px 30px;
+    border-radius: 30px;
+}
+.btn-shop:hover,.btn-shop:active{
+    background: #899685;
+    color: white;
+}
+.row-f{
+    border: 1px solid #e6e6e6;
+    margin-bottom: 40px;
+}
+.icon-shop{
+    text-align: center;
+    padding-top: 35px;
+    padding-bottom: 25px;
+    
+}
+.icon-shop h5{
+    padding-top: 20px;
+    margin-bottom: -5px;
+}
+.c{
+    text-align: center;
+    color: #54ac00;
+    margin-top: 50px;
+    
+    
+}
+.c h6{
+    font-size: 1.3rem;
+}
+.q h2{
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 2.3rem;
+}
+.img-f img{
+    width: 100%;
+    
+}
+.img-col img{
+    width: 96%;
+    margin-bottom: 20px;
+    
+}
+.heading-icon{
+     padding-left: 300px;
+   
+    
+}
+.heading-icon li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 40px;
+    text-align: center;
+    color: #a7bcd8;
+    margin: 0 auto;
+    
+}
+.heading-icon img{
+    padding-bottom: 15px;
+}
+.heading-icon .span{
+    color: #54ac00;
+}
+.e h4{
+    font-size: 1rem;
+}
+.row .span{
+   display: inline-block;
+   background: #253237;
+   color: white;
+   border-radius: 5px;
+   font-size: 0.9rem;
+   padding:  0  5px;
+   
+
+}
+.row ul li{
+    list-style: none;
+    
+}
+.banner-second{
+    background-image:url(../images/bg_sthome.jpg) ;
+    background-size: cover;
+background-position: center;
+
+margin-bottom: 100px;
+height: 70vh;
+margin-top: 100px;
+padding-top: 120px;
+color: white;
+}
+.banner-second h1{
+    font-size: 3rem;
+}
+.btn-discover{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 15px 30px;
+    border-radius: 30px;
+    
+}
+.btn-discover:hover,.btn-discover:active{
+    background: #899685;
+    color: black;
+}
+.g{
+    padding-bottom: 50px;
+}
+.row-three{
+    opacity: 0.5;
+}
+.row-three:hover{
+    opacity: 1;
+}
+.footer-first{
+    background-color: #f7f7f7;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.col-text2{
+    display: inline-block;
+}
+.btn-findcourses{
+    display: inline-block;
+    padding:10px 30px;
+   margin-left: 0px;
+    background: #5cae01;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 1.1rem;
+    
+}
+.col-text2 .form-btn .bn-form{
+    border: 1px #525252 solid;
+    border-radius: 20px;
+    height: 45px;
+    width:450px;
+    padding-left: 40px;
+    padding-right: 50px;
+   
+}
+
+.col-text3{
+    font-size: 1.4rem;
+    text-align: center;
+   
+}
+.col-text3 .icon-contact{
+    padding-left: 17px;
+    color: black;
+    opacity: 0.8;
+    
+}
+.text p{
+    color: #bcbcbb;
+}
+.row-footer1{
+    padding-top: 50px;
+    padding-bottom: 70px;
+    border-bottom: 1px solid black;
+}
+.row-footer2{
+    padding-top:  60px;
+}
+.col-contact a{
+    display: inline-block;
+    text-decoration: none;
+    color:  #abb8c4;
+    padding-bottom: 10px;
+    
+    
+}
+.row-in a img{
+    border-radius: 5px;
+    border: 1px solid #f2f2f2;
+    width: 90%;
+}
+.row-in a{
+    text-decoration: none;
+    color: black;
+}
+.row-in a:hover{
+    
+    color: #54ac00;
+}
+.row .infor .textlink a{
+    padding-left: 15px;
+color: #aaaaaa;
+}
+.row .infor .textlink a:hover{
+    color: #54ac00;
+}
+.row-item-last1{
+margin-top: 80px;
+}
+.row-item-last2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.row-view img{
+    height: 50vh;
+    
+    
+}
+.footer-last{
+    padding: 20px 0;
+}
+.ft{
+    display: inline-block;
+    
+
+}
+.ft a{
+text-decoration: none;
+color: #5cae01;
+}
+.footer-last img{
+    padding-left: 300px;
+}
+.imgview img{
+    width: 20%;
+    float: left;
+}
+
+
+                   
+                   

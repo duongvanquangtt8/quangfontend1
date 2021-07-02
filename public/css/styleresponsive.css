@@ -1,0 +1,121 @@
+@media screen and (max-width:1023px) {
+    header .top-header{
+        background-position: center;
+        
+        background-size: cover;
+       height: 100%;
+
+    }
+    .banner{
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .top-header .logo{
+        text-align: center;
+    }
+   
+    .imgview {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    .heading-icon {
+       width: 100%;
+       padding-left: 100px;
+       
+    }
+   
+    .changeimg{
+        width: 1%;
+        height: 5%
+        
+    }
+    .col-text1 {
+        width: 50%;
+    }
+    .col-text2{
+        width: 50%;
+    }
+    .col-text2 .form-btn .bn-form{
+        width: 300px;
+
+    }
+    
+    .col-text3{
+        width: 100%;
+        text-align: left;
+    }
+   
+    
+}
+@media screen and (max-width:767px){
+    .heading-icon  {
+        width: 100%;
+        padding-left: 0;
+        
+     }
+     .heading-icon li{
+         padding-right: 0px;
+
+     }
+     .icon-ag{
+         display: block;
+         text-align: center;
+     }
+     .banner-second{
+         background-size: cover;
+         background-position: center ;
+     }
+     .banner-second h1{
+         font-size: 1.5rem;
+         
+     }
+     .btn-discover{
+         padding: 5px 10px;
+         font-size: 0.8rem;
+     }
+     .item-icon{
+         width: 50%;
+     }
+     .col-text1 {
+        width: 50%;
+    }
+    .col-text2{
+        width: 50%;
+    }
+    .col-text2 .form-btn .bn-form{
+        width: 170px;
+        padding-left: 20px;
+    padding-right: 30px;
+    }
+    .col-text3{
+        width: 100%;
+        text-align: left;
+    }
+    .top-header{
+        
+        background-size: cover;
+       height: 100%;
+
+    }
+    .col-text2 .form-btn .bn-form{
+        width: 175px;
+    }
+    .btn-findcourses{
+        padding: 5px 15px;
+        font-size: 1rem;
+    }
+    
+.c h6{
+font-size: 1rem;
+}
+.q h2{
+    font-size: 1.5rem;
+}
+
+}
+
+
+
+
+
